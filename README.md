@@ -38,10 +38,27 @@ Apogee is a production-ready MVP for managing action items with advanced feature
 ## 📸 Screenshots
 
 <div align="center">
-
-*Dashboard with action items list and filtering*
-
-*Create/Edit action form with type-specific fields*
+*Login Page image*
+![Login Page](docs/screenshots/image1.png)
+*Dashboard Page with action items list and filtering*
+![Dashboard Page](docs/screenshots/image2.png)
+*Creating a new action item - Reminder*
+![Creating a new action item - Reminder](docs/screenshots/image3.png)
+![Creating a new action item - Reminder](docs/screenshots/image4.png)
+![Creating a new action item - Reminder](docs/screenshots/image5.png)
+![Creating a new action item - Reminder](docs/screenshots/image6.png)
+*Creating a new action item - Email*
+![Creating a new action item - Email](docs/screenshots/image7.png)
+*Email sent to the recipient email with the description of the action item*
+![Email sent to the recipient email with the description of the action item](docs/screenshots/image8.png)
+*Creating a new action item at offline mode*
+![Creating a new action item at offline mode](docs/screenshots/image9.png)
+![Creating a new action item at offline mode](docs/screenshots/image10.png)
+![Creating a new action item at offline mode](docs/screenshots/image11.png)
+*Auto-Syncing the action item when the user is online*
+![Auto-Syncing the action item when the user is online](docs/screenshots/image12.png)
+*Swagger documentation for all endpoints*
+![Swagger documentation for all endpoints](docs/screenshots/image13.png)
 
 </div>
 
