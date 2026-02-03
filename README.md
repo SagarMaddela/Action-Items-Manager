@@ -34,54 +34,52 @@ Apogee is a production-ready MVP for managing action items with advanced feature
 - **📴 Offline Support** - Work offline with automatic sync when reconnected
 - **📚 API Documentation** - Interactive Swagger documentation for all endpoints
 - **🎨 Minimal UI** - Clean, functional design optimized for productivity
-
+   
 ## 📸 Screenshots
 
-### Authentication
+### Login Page
 <img src="docs/screenshots/image1.png" alt="Login Page" width="700" />
 
 ---
 
-### Dashboard & Action Items
+### Dashboard – Action Items List & Filtering
 <img src="docs/screenshots/image2.png" alt="Dashboard Page" width="700" />
 
 ---
 
-### Creating Action Items – Reminder
-<p align="center">
-  <img src="docs/screenshots/image3.png" width="45%" />
-  <img src="docs/screenshots/image4.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/image5.png" width="45%" />
-  <img src="docs/screenshots/image6.png" width="45%" />
-</p>
+### Creating Action Item – Reminder
+<img src="docs/screenshots/image3.png" alt="Create Reminder Step 1" width="700" />
+<img src="docs/screenshots/image4.png" alt="Create Reminder Step 2" width="700" />
+<img src="docs/screenshots/image5.png" alt="Create Reminder Step 3" width="700" />
+<img src="docs/screenshots/image6.png" alt="Create Reminder Step 4" width="700" />
 
 ---
 
-### Creating Action Items – Email
-<img src="docs/screenshots/image7.png" alt="Email Action Creation" width="700" />
+### Creating Action Item – Email
+<img src="docs/screenshots/image7.png" alt="Create Email Action" width="700" />
 
+### Email Sent to Recipient
 <img src="docs/screenshots/image8.png" alt="Email Sent Confirmation" width="700" />
 
 ---
 
-### Offline Mode & Auto Sync
-<p align="center">
-  <img src="docs/screenshots/image9.png" width="30%" />
-  <img src="docs/screenshots/image10.png" width="30%" />
-  <img src="docs/screenshots/image11.png" width="30%" />
-</p>
-
-<img src="docs/screenshots/image12.png" alt="Auto Sync on Reconnect" width="700" />
+### Offline Mode – Creating Action Item
+<img src="docs/screenshots/image9.png" alt="Offline Mode Step 1" width="700" />
+<img src="docs/screenshots/image10.png" alt="Offline Mode Step 2" width="700" />
+<img src="docs/screenshots/image11.png" alt="Offline Mode Step 3" width="700" />
 
 ---
 
-### API Documentation
-<img src="docs/screenshots/image13.png" alt="Swagger API Documentation" width="700" />
+### Auto Sync on Reconnect
+<img src="docs/screenshots/image12.png" alt="Auto Syncing Action Items" width="700" />
+
+---
+
+### API Documentation (Swagger)
+<img src="docs/screenshots/image13.png" alt="Swagger Documentation" width="700" />
 
 > **Note:** Screenshots captured from local development environment.
+
 
 
 ## 📋 Tech Stack
