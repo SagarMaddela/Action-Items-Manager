@@ -37,32 +37,52 @@ Apogee is a production-ready MVP for managing action items with advanced feature
 
 ## 📸 Screenshots
 
-<div align="center">
-*Login Page image*
-![Login Page](docs/screenshots/image1.png)
-*Dashboard Page with action items list and filtering*
-![Dashboard Page](docs/screenshots/image2.png)
-*Creating a new action item - Reminder*
-![Creating a new action item - Reminder](docs/screenshots/image3.png)
-![Creating a new action item - Reminder](docs/screenshots/image4.png)
-![Creating a new action item - Reminder](docs/screenshots/image5.png)
-![Creating a new action item - Reminder](docs/screenshots/image6.png)
-*Creating a new action item - Email*
-![Creating a new action item - Email](docs/screenshots/image7.png)
-*Email sent to the recipient email with the description of the action item*
-![Email sent to the recipient email with the description of the action item](docs/screenshots/image8.png)
-*Creating a new action item at offline mode*
-![Creating a new action item at offline mode](docs/screenshots/image9.png)
-![Creating a new action item at offline mode](docs/screenshots/image10.png)
-![Creating a new action item at offline mode](docs/screenshots/image11.png)
-*Auto-Syncing the action item when the user is online*
-![Auto-Syncing the action item when the user is online](docs/screenshots/image12.png)
-*Swagger documentation for all endpoints*
-![Swagger documentation for all endpoints](docs/screenshots/image13.png)
+### Authentication
+<img src="docs/screenshots/image1.png" alt="Login Page" width="700" />
 
-</div>
+---
 
-> **Note**: Add screenshots after deployment to showcase the UI
+### Dashboard & Action Items
+<img src="docs/screenshots/image2.png" alt="Dashboard Page" width="700" />
+
+---
+
+### Creating Action Items – Reminder
+<p align="center">
+  <img src="docs/screenshots/image3.png" width="45%" />
+  <img src="docs/screenshots/image4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/image5.png" width="45%" />
+  <img src="docs/screenshots/image6.png" width="45%" />
+</p>
+
+---
+
+### Creating Action Items – Email
+<img src="docs/screenshots/image7.png" alt="Email Action Creation" width="700" />
+
+<img src="docs/screenshots/image8.png" alt="Email Sent Confirmation" width="700" />
+
+---
+
+### Offline Mode & Auto Sync
+<p align="center">
+  <img src="docs/screenshots/image9.png" width="30%" />
+  <img src="docs/screenshots/image10.png" width="30%" />
+  <img src="docs/screenshots/image11.png" width="30%" />
+</p>
+
+<img src="docs/screenshots/image12.png" alt="Auto Sync on Reconnect" width="700" />
+
+---
+
+### API Documentation
+<img src="docs/screenshots/image13.png" alt="Swagger API Documentation" width="700" />
+
+> **Note:** Screenshots captured from local development environment.
+
 
 ## 📋 Tech Stack
 
